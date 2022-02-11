@@ -4,3 +4,4 @@ Another change for diff toolthird edit of file!
 purdurnr creates conflict!
 updated on web
 kydando added a change
+creating conflict from kydando
