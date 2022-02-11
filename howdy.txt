@@ -1,6 +1,6 @@
 Hello from Kyle 
 First change to add Leanna
-Another change for diff toolthird edit of file! 
+Another silly change for diff toolthird edit of file! 
 updated on web
 kydando added a change
-creating conflict from kydando
+creating another conflict from kydando
