@@ -1,4 +1,3 @@
-# NXP Application Center
 [<img src="https://logodix.com/logo/653102.png" width="100"/>](https://www.nxp.com)
 
 ## Bubble Peripheral
