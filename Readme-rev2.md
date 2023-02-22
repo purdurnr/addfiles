@@ -5,10 +5,10 @@ The bubble level demo demonstrates basic usage of the on-board accelerometer to 
 
 #### Project Metadata
 <!----- Devices ----->
-[![Device badge](https://img.shields.io/badge/Device-RT1060-blue)](https://github.com/search?q=RT1060+in%3Anreadme&type=Repositories)
-[![Device badge](https://img.shields.io/badge/Device-LPC55S69-blue)](https://github.com/search?q=LPC55S69+in%3Areadme&type=Repositories)
-[![Device badge](https://img.shields.io/badge/Device-MCX9N-blue)](https://github.com/search?q=MCX9N+in%3Areadme&type=Repositories)
-[![Device badge](https://img.shields.io/badge/Device-K22F-blue)](https://github.com/search?q=K22F+in%3Areadme&type=Repositories)
+[![Device badge](https://img.shields.io/badge/Device-RT1060-blue)](https://github.com/search?q=org%3ANXP-mcuxpresso+RT1060+in%3Anreadme&type=Repositories)
+[![Device badge](https://img.shields.io/badge/Device-LPC55S69-blue)](https://github.com/search?q=org%3ANXP-mcuxpresso+LPC55S69+in%3Areadme&type=Repositories)
+[![Device badge](https://img.shields.io/badge/Device-MCX9N-blue)](https://github.com/search?q=org%3ANXP-mcuxpresso+MCX9N+in%3Areadme&type=Repositories+org:nxp)
+[![Device badge](https://img.shields.io/badge/Device-K22F-blue)](https://github.com/search?q=org%3ANXP-mcuxpresso+K22F+in%3Areadme&type=Repositories)
 </p>
 
 <!----- Technologies ----->
