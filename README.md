@@ -47,7 +47,7 @@ code snippet to copy/paste to project
 
 ## 6. Support<a name="step6">
 Questions regarding the content/correctness of this example can be entered as Issues within this GitHub repository. </p>
-CAUTION: For more general technical questions regarding NXP Microcontrollers and the difference in expected funcionality, enter your questions on the [NXP Community Forum](community.nxp.com).
+CAUTION: For more general technical questions regarding NXP Microcontrollers and the difference in expected funcionality, enter your questions on the [NXP Community Forum](https://community.nxp.com/).
 
 
 [![Follow us on Youtube](https://img.shields.io/badge/Youtube-Follow%20us%20on%20Youtube-red.svg)](https://www.youtube.com/@NXP_Semiconductors)
