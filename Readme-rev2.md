@@ -12,7 +12,7 @@ The bubble level demo demonstrates basic usage of the on-board accelerometer to 
 </p>
 
 <!----- Technologies ----->
-[![Technology badge](https://img.shields.io/badge/Technology-Low%20Power-yellowgreen)](https://github.com/search?q=org%3ANXP-mcuxpresso+low+power+in%3Areadme&type=Repositories)
+[![Technology badge](https://img.shields.io/badge/Technology-Low%20Power-yellowgreen)](https://github.com/search?q=org%3ANXP-mcuxpresso+low%20power+in%3Areadme&type=Repositories)
 [![Technology badge](https://img.shields.io/badge/Technology-Audio-yellowgreen)](https://github.com/search?q=org%3ANXP-mcuxpresso+audio+in%3Areadme&type=Repositories)
 [![Technology badge](https://img.shields.io/badge/Technology-Sensor-yellowgreen)](https://github.com/search?q=org%3ANXP-mcuxpresso+sensor+in%3Areadme&type=Repositories)
 </p>
