@@ -35,12 +35,15 @@ The bubble level demo demonstrates basic usage of the on-board accelerometer to 
 ![MIMXRT1060-EVKB](https://www.nxp.com/assets/images/en/dev-board-image/MIMXRT1060-EVKB-TOP.jpg)</p>
 
 ### 3.1 Step 1
+To properly setup the device copy the following into terminal: </p>
 ```
 code snippet to copy/paste to project
 ```
 ### 3.2 Step 2
 >**Note** Some users have found doing this helpful
 ### 3.3 Step 3
+You can see how to complete this step in following video:</p>
+<img src="images/adding-web-images.gif" width="500"/> </p>
 
 ## 4. Results<a name="step4">
 
