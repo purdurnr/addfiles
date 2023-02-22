@@ -29,7 +29,7 @@ The bubble level demo demonstrates basic usage of the on-board accelerometer to 
 - [ ] MCUXpresso SDK v2.13.0 or later
 
 ## 2. Hardware<a name="step2">
-- [MIMXRT1060-EVKB](https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/i-mx-rt1060-evaluation-kit:MIMXRT1060-EVKB)
+- [ ] [MIMXRT1060-EVKB](https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/i-mx-rt1060-evaluation-kit:MIMXRT1060-EVKB)
 
 ## 3. Setup<a name="step3">
 ![MIMXRT1060-EVKB](https://www.nxp.com/assets/images/en/dev-board-image/MIMXRT1060-EVKB-TOP.jpg)</p>
