@@ -25,7 +25,6 @@ The bubble level demo demonstrates basic usage of the on-board accelerometer to 
 1. [Support](#step6)
 
 ## 1. Software<a name="step1">
-- [ ] Task list
 - [ ] MCUXpresso IDE v11.7.0 or later
 - [ ] MCUXpresso SDK v2.13.0 or later
 
