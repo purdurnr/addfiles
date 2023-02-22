@@ -11,10 +11,10 @@ The bubble level demo demonstrates basic usage of the on-board accelerometer to 
 #### Toolchain: |ARMGCC|MCUXPRESSO| 
 
 ## Release notes
-| Version | Description / Update | Date |
-|--:|-|--:|
-| 1.1 | Updated instructions for seting up the example | March 3<sup>rd</sup> 2023 |
-| 1.0 | Initial release on Applicatino Center | January 1<sup>st</sup> 2023 |
+| Version | Description / Update                           | Date                        |
+|:-------:|------------------------------------------------|----------------------------:|
+| 1.1     | Updated instructions for seting up the example | March 3<sup>rd</sup> 2023   |
+| 1.0     | Initial release on Application Center          | January 1<sup>st</sup> 2023 |
 
 ## Table of Contents
 1. [Software](#step1)
@@ -25,8 +25,9 @@ The bubble level demo demonstrates basic usage of the on-board accelerometer to 
 1. [Support](#step6)
 
 ## 1. Software<a name="step1">
-- MCUXpresso IDE v11.7.0 or later
-- MCUXpresso SDK v2.13.0 or later
+- [ ] Task list
+- [ ] MCUXpresso IDE v11.7.0 or later
+- [ ] MCUXpresso SDK v2.13.0 or later
 
 ## 2. Hardware<a name="step2">
 - [MIMXRT1060-EVKB](https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/i-mx-rt1060-evaluation-kit:MIMXRT1060-EVKB)
@@ -39,6 +40,7 @@ The bubble level demo demonstrates basic usage of the on-board accelerometer to 
 code snippet to copy/paste to project
 ```
 ### 3.2 Step 2
+> [!TIP] This is a tip that is helpful for this example
 ### 3.3 Step 3
 
 ## 4. Results<a name="step4">
@@ -47,7 +49,7 @@ code snippet to copy/paste to project
 
 ## 6. Support<a name="step6">
 Questions regarding the content/correctness of this example can be entered as Issues within this GitHub repository. </p>
-CAUTION: For more general technical questions regarding NXP Microcontrollers and the difference in expected funcionality, enter your questions on the [NXP Community Forum](https://community.nxp.com/).
+>**CAUTION**: For more general technical questions regarding NXP Microcontrollers and the difference in expected funcionality, enter your questions on the [NXP Community Forum](https://community.nxp.com/).
 
 
 [![Follow us on Youtube](https://img.shields.io/badge/Youtube-Follow%20us%20on%20Youtube-red.svg)](https://www.youtube.com/@NXP_Semiconductors)
