@@ -3,11 +3,33 @@
 ## Bubble Peripheral
 The bubble level demo demonstrates basic usage of the on-board accelerometer to implement a bubble level. A bubble level utilizes two axes to visually show deviation from a level plane (0 degrees) on a given axis. You can open the mex file with MCUXpresso Config Tool to do further configuration of pin, clock and peripheral.
 
-#### Devices: |RT1060|LPC55S69|MCX9N|K22F|
-#### Technology: |SENSOR|
-#### Application: |INDUSTRIAL|
-#### Peripheral: |I2C|UART|
-#### Toolchain: |ARMGCC|MCUXPRESSO| 
+#### Project Metadata
+<!----- Devices ----->
+[![Device badge](https://img.shields.io/badge/Device-RT1060-blue)](https://github.com/search?q=RT1060+in%3Aname&type=Repositories)
+[![Device badge](https://img.shields.io/badge/Device-LPC55S69-blue)](https://github.com/search?q=LPC55S69+in%3Aname&type=Repositories)
+[![Device badge](https://img.shields.io/badge/Device-MCX9N-blue)](https://github.com/search?q=MCX9N+in%3Aname&type=Repositories)
+[![Device badge](https://img.shields.io/badge/Device-K22F-blue)](https://github.com/search?q=K22F+in%3Aname&type=Repositories)
+</p>
+
+<!----- Technologies ----->
+![Technology badge](https://img.shields.io/badge/Technology-Low%20Power-yellowgreen)
+![Technology badge](https://img.shields.io/badge/Technology-Audio-yellowgreen)
+![Technology badge](https://img.shields.io/badge/Technology-Sensor-yellowgreen)
+</p>
+
+<!----- Applications ----->
+![Application badge](https://img.shields.io/badge/Application-INDUSTRIAL-lightgrey)
+</p>
+
+<!----- Peripherals -----> 
+![Peripheral badge](https://img.shields.io/badge/Peripheral-I2C-yellow)
+![Peripheral badge](https://img.shields.io/badge/Peripheral-UART-yellow)
+</p>
+
+<!----- Toolchains ----->  
+![Toolchain badge](https://img.shields.io/badge/Toolchain-ARMGCC-orange)
+![Toolchain badge](https://img.shields.io/badge/Toolchain-MCUXPRESSO-orange)
+</p>
 
 ## Release notes
 | Version | Description / Update                           | Date                        |
