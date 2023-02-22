@@ -40,7 +40,7 @@ The bubble level demo demonstrates basic usage of the on-board accelerometer to 
 code snippet to copy/paste to project
 ```
 ### 3.2 Step 2
-> [!TIP] This is a tip that is helpful for this example
+>**Note** Some users have found doing this helpful
 ### 3.3 Step 3
 
 ## 4. Results<a name="step4">
@@ -49,7 +49,7 @@ code snippet to copy/paste to project
 
 ## 6. Support<a name="step6">
 Questions regarding the content/correctness of this example can be entered as Issues within this GitHub repository. </p>
->**CAUTION**: For more general technical questions regarding NXP Microcontrollers and the difference in expected funcionality, enter your questions on the [NXP Community Forum](https://community.nxp.com/).
+>**Warning**: For more general technical questions regarding NXP Microcontrollers and the difference in expected funcionality, enter your questions on the [NXP Community Forum](https://community.nxp.com/).
 
 
 [![Follow us on Youtube](https://img.shields.io/badge/Youtube-Follow%20us%20on%20Youtube-red.svg)](https://www.youtube.com/@NXP_Semiconductors)
