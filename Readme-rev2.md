@@ -18,17 +18,17 @@ The bubble level demo demonstrates basic usage of the on-board accelerometer to 
 </p>
 
 <!----- Applications ----->
-[![Application badge](https://img.shields.io/badge/Application-INDUSTRIAL-lightgrey)](https://github.com/search?q=RT1060+in%3Areadme&type=Repositories)
+[![Application badge](https://img.shields.io/badge/Application-INDUSTRIAL-lightgrey)](https://github.com/search?q=org%3ANXP-mcuxpresso+industrial+in%3Areadme&type=Repositories)
 </p>
 
 <!----- Peripherals -----> 
-[![Peripheral badge](https://img.shields.io/badge/Peripheral-I2C-yellow)](https://github.com/search?q=RT1060+in%3Areadme&type=Repositories)
-[![Peripheral badge](https://img.shields.io/badge/Peripheral-UART-yellow)](https://github.com/search?q=RT1060+in%3Areadme&type=Repositories)
+[![Peripheral badge](https://img.shields.io/badge/Peripheral-I2C-yellow)](https://github.com/search?q=org%3ANXP-mcuxpresso+i2c+in%3Areadme&type=Repositories)
+[![Peripheral badge](https://img.shields.io/badge/Peripheral-UART-yellow)](https://github.com/search?q=org%3ANXP-mcuxpresso+uart+in%3Areadme&type=Repositories)
 </p>
 
 <!----- Toolchains ----->  
-[![Toolchain badge](https://img.shields.io/badge/Toolchain-ARMGCC-orange)](https://github.com/search?q=RT1060+in%3Areadme&type=Repositories)
-[![Toolchain badge](https://img.shields.io/badge/Toolchain-MCUXPRESSO-orange)](https://github.com/search?q=RT1060+in%3Areadme&type=Repositories)
+[![Toolchain badge](https://img.shields.io/badge/Toolchain-ARMGCC-orange)](https://github.com/search?q=org%3ANXP-mcuxpresso+armgcc+in%3Areadme&type=Repositories)
+[![Toolchain badge](https://img.shields.io/badge/Toolchain-MCUXPRESSO-orange)](https://github.com/search?q=org%3ANXP-mcuxpresso+mcuxpresso+in%3Areadme&type=Repositories)
 </p>
 
 ## Release notes
